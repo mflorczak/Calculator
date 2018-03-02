@@ -11,7 +11,7 @@ public class SimpleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SimpleApplication.class, args);
 
-		int n;
+		/*int n;
 		System.out.println("Dodawanie wybierz 1\nOdejmowanie wybierz 2");
         try (Scanner in = new Scanner(System.in)) {
             n = in.nextInt();
@@ -31,6 +31,6 @@ public class SimpleApplication {
             default:
                 System.out.println("Nie ma takiej opcji");
                 break;
-        }
+        }*/
 	}
 }
